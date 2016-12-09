@@ -111,7 +111,7 @@ static CGFloat LCPageDistance = 10.0f;  // distance to bottom of pageControl
     // set up pageControl
     [self addSubview:({
 
-        UIPageControl *pageControl = [[UIPageControl alloc] initWithFrame:CGRectMake(0, scrollH - 10.0f - LCPageDistance, scrollW, 10.0f)];
+        UIPageControl *pageControl = [[UIPageControl alloc] initWithFrame:CGRectMake(0, scrollH - 10.0f - LCPageDistance, scrollW, 20.0f)];
         pageControl.numberOfPages                 = self.count;
         pageControl.userInteractionEnabled        = NO;
         pageControl.currentPageIndicatorTintColor = self.currentPageIndicatorTintColor ?: [UIColor orangeColor];

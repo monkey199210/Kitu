@@ -24,6 +24,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>CharPageControl.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Genome.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -54,12 +59,27 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SESlideTableViewCell.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Signals.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ZTDropDownTextField.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>pop.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -72,22 +92,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>07A84B2E64A32501B21A201AC1ECA435</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>220240EA62F0675C8101BC19488A0CBB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2C2B1953A91633859BF7AD238FF567A0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>331A460D985276BFDD064D15800D1456</key>
+		<key>655C65AACB99675DDE052AAC246CD6E4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3DEF9D4E54E6D281AB47D53BE5A7D54C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5C1EC764079935535979A884954C9D97</key>
+		<key>7645FCA3B76F2026A46C920AA24B8AF7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -102,7 +127,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>905E6EE968A43114AB12BED58C2FC210</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>99B71C4934F818E4B94A9D18D78FECE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9CAAB2A1855182D992E2945796B03B4D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B0088B200B0F0082CEAF21EB28F3F3E9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -117,12 +157,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DCB45C0AF8651B0CC72E303D3F242439</key>
+		<key>D9622DC1C006A955E69F5B5801FE903F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F40BEA88873B90882C7A7E781FB3DA82</key>
+		<key>DCB45C0AF8651B0CC72E303D3F242439</key>
 		<dict>
 			<key>primary</key>
 			<true/>

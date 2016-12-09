@@ -1,0 +1,6 @@
+framework module CharPageControl {
+  umbrella header "CharPageControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

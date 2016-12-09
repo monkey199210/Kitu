@@ -5,6 +5,7 @@ PODS:
   - AsyncSwift (1.7.3)
   - BrightFutures (4.1.0):
     - Result (~> 2.0)
+  - CharPageControl (1.0.1)
   - Genome (1.0.8)
   - GoogleMaps (2.0.1):
     - GoogleMaps/Maps (= 2.0.1)
@@ -42,42 +43,53 @@ PODS:
   - MRProgress/ProgressBaseClass (0.8.3)
   - MRProgress/Stopable (0.8.3):
     - MRProgress/Helper
+  - pop (1.0.9)
   - Result (2.1.3)
   - SDWebImage (3.8.1):
     - SDWebImage/Core (= 3.8.1)
   - SDWebImage/Core (3.8.1)
+  - SESlideTableViewCell (0.7.0)
   - Signals (2.3.0)
   - SwiftyJSON (2.3.2)
+  - ZTDropDownTextField (0.1.5):
+    - pop (~> 1.0)
 
 DEPENDENCIES:
   - Alamofire (~> 3.4)
   - AlamofireImage (~> 2.0)
   - AsyncSwift
   - BrightFutures
+  - CharPageControl
   - Genome (~> 1.0.0)
   - GoogleMaps
   - GooglePlaces
   - HanekeSwift
   - MRProgress
   - SDWebImage
+  - SESlideTableViewCell
   - Signals (~> 2.0)
   - SwiftyJSON
+  - ZTDropDownTextField
 
 SPEC CHECKSUMS:
   Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
   AlamofireImage: 3ccf3347d9ea24580dc11fb892770a0be6a29826
   AsyncSwift: f3ad5dd077bbd1477e7573e87071a532fedaca1a
   BrightFutures: e18b83fd6fa8562ceb9902ee609f0de23b0ee110
+  CharPageControl: c6afeccc2c2122a673d04ccc490b482b21a51da7
   Genome: 20d8aa7b63728553aab26fef53ea8570a71ce2f1
   GoogleMaps: f09da64fc987c1aa29394567c3cab5a3df83c402
   GooglePlaces: 72fab1d1651c6df0322f2aad245ffb15b80d3c56
   HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
   MRProgress: 16de7cc9f347e8846797a770db102a323fe7ef09
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
   Result: 18e1a7597fbcca5923c565b40a25a98afafdee02
   SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SESlideTableViewCell: 1487a6aedc84b480a888fc33b8d1c58fa5026f99
   Signals: d47128787e1675858f956556397e482fd667bd96
   SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  ZTDropDownTextField: a9cb5db41b66eb28a7c38afaf4c334fb2a81034e
 
-PODFILE CHECKSUM: d51dfa4ed37c35e2375554f93658e27ace2ba046
+PODFILE CHECKSUM: efae252d1fd7dc2386f2f3478d25204b7a912c3c
 
 COCOAPODS: 1.0.1

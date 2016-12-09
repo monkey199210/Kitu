@@ -1,0 +1,6 @@
+framework module SESlideTableViewCell {
+  umbrella header "SESlideTableViewCell-umbrella.h"
+
+  export *
+  module * { export * }
+}

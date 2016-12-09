@@ -15,4 +15,7 @@ target 'Kitu' do
   pod 'Signals', '~> 2.0'
   pod 'HanekeSwift'
   pod 'AsyncSwift'
+  pod 'CharPageControl'
+  pod 'ZTDropDownTextField'
+  pod 'SESlideTableViewCell'
 end
